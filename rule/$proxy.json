@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "315lz.com",
+        "gigabyte.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "315lz.com",
+        "browserleaks.com",
+        "googleapis.com",
+        "gstatic.com",
+        "sm.ms"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "app.getgrass.io"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "46.20.109.253/24"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "123624.com",
+        "aws-wynd.com",
+        "cdbao.net",
+        "cloudfront.net",
+        "getgrass.io",
+        "goofish.pro",
+        "grass.io",
+        "wynd.network"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "162.159.192.0/24",
+        "162.159.193.0/24",
+        "162.159.195.0/24",
+        "188.114.96.0/24",
+        "188.114.97.0/24",
+        "188.114.98.0/24",
+        "188.114.99.0/24"
+      ]
+    }
+  ],
+  "version": 2
+}

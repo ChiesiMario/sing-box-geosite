@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.github.com",
+        "assets.digitalocean.com",
+        "c.1password.com",
+        "cloudflarestorage.com",
+        "digitaloceanspaces.com",
+        "dl.google.com",
+        "dl.l.google.com",
+        "downloads.1password.com",
+        "drive.google.com",
+        "f-droid.org",
+        "fastly.net",
+        "githubusercontent.com",
+        "googleapis.com",
+        "googledrive.com",
+        "googleusercontent.com",
+        "googlevideo.com",
+        "lineageos.org",
+        "mypikpak.com",
+        "na.cx",
+        "pikpak.com",
+        "s3.amazonaws.com",
+        "static.cloudflareinsights.com",
+        "storage.googleapis.com",
+        "video.twimg.com"
+      ]
+    }
+  ],
+  "version": 2
+}
